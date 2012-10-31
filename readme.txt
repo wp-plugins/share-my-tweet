@@ -1,33 +1,36 @@
 === Share my Tweet ===
 Contributors: Gadgets Choose
-Tags: twitter, twitter tool, blog
+Tags: Ultimate TinyMCE,TinyMCE Advanced,Post,plugin,admin,posts,page,links,TinyMCE
 Requires at least: 2.8
-Tested up to: 3.0
-Stable tag: 1.0
+Tested up to: 3.5
+Stable tag: 1.1
 License: GPLv2
 
-Share my Tweet widget is a great tool for article sharing across wordpress's blog. 
+Share my Tweet use TinyMCE to include various icons, button, cool effects and cool styles into your blog post.
 
 == Description ==
 
-When you tweet any post from those wordpress blogs that use this plugin, this widget will pick up your tweet from twitter and shows it on all the wordpress blogs with this widget on it.
+Share my Tweet use TinyMCE to include various icons, button, cool effects as well as other cool styles into your blog post. Select text on the visual editor then select any feature under the Styles drop down box to render cool effect on your post.
 
 == Frequently Asked Questions ==
 
-= How to tweet the blog post on those wordpress blogs that use this plugin? =
+= How to select the text? =
 
-In order to tweet any blog post from any wordpress blog which uses this plugin, click on the tweet button, enter
-both your twitter's username and password and then tweet it! Just that simple.     
+Left mouse click and drag to select the text in the visual editor.    
 
-= Can I change those text within the tweet box? =
+= How to include cool effect? =
 
-Yes, you can add in additional text (or totally new text) within the tweet box but please leave the @screenname and the url untouch.
- 
+After you have selected the text, just select one of the effect from the Styles drop down box then publish your post.
+
 == Installation ==
 
-Upload the Share my Tweet plugin to your blog, then activate it!
+Upload the Share my Tweet plugin to your blog, then activated it!
 
 == Changelog ==
+
+= 1.1 =
+
+* Include 10 cool features to style up the post elements.
 
 = 1.0 =
 
